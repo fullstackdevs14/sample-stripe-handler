@@ -1,7 +1,7 @@
 # Sample Stripe Handler
 
-This small demo shows how to accept payments with stripe with Vue.js using an
-Azure Serverless Function. It's actually not that bad to set up!
+This demo shows how to accept payments with stripe. This is the backend part of the demo which  is built with
+Azure Serverless Function.
 
 Live demo at
 [https://shoppity.azurewebsites.net/](https://shoppity.azurewebsites.net/)
